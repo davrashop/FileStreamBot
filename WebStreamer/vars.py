@@ -1,4 +1,4 @@
-# (c) @AvishkarPatil | @EverythingSuckz
+# (c) @archieshots | @archieshots
 
 from os import getenv, environ
 from dotenv import load_dotenv
