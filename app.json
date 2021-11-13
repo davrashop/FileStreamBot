@@ -1,6 +1,6 @@
 {
-  "name": "Avi-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @Avishkarpatil",
+  "name": "Thrillerx-FileStreamBot",
+  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @archieshots",
   "keywords": [
       "telegram",
       "stream",
@@ -12,10 +12,10 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/avipatilpro/FileStreamBot/",
+  "repository": "https://github.com/davrashop/FileStreamBot/",
   "success_url": "/",
   "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
-  "website": "avipatilweb.me",
+  "website": "https://github.com/davrashop",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
